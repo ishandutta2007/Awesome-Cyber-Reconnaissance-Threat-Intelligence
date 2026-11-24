@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence?style=for-the-badge&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence?style=for-the-badge&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" /></a>
@@ -66,9 +66,9 @@ Below is an overview of top commercial cyber reconnaissance, threat intelligence
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of the most impactful open-source intelligence (OSINT), external reconnaissance, attack surface discovery, and threat platform repositories — ranked by GitHub star count ⭐.
+Curated list of the most impactful open-source intelligence (OSINT), external reconnaissance, attack surface discovery, and threat platform repositories — ranked by GitHub Stars_Count ⭐.
 
-| 📦 Repository & Project | ⭐ Stars | 🛠️ Category & Primary Use Case |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 🛠️ Category & Primary Use Case |
 | :--- | :--- | :--- |
 | **[Sherlock](https://github.com/sherlock-project/sherlock)** [![Stars](https://img.shields.io/github/stars/sherlock-project/sherlock?style=social&color=white)](https://github.com/sherlock-project/sherlock/stargazers) | `116,400+` | 🕵️ **Social OSINT**: Hunt down target usernames and digital personas across 400+ social platforms. |
 | **[Maigret](https://github.com/soxoj/maigret)** [![Stars](https://img.shields.io/github/stars/soxoj/maigret?style=social&color=white)](https://github.com/soxoj/maigret/stargazers) | `41,200+` | 🔍 **Dossier Generation**: Advanced username reconnaissance gathering aliases, IDs, and dossier reports. |
@@ -162,3 +162,12 @@ If this curated reconnaissance guide saved you research hours or bolstered your 
 ## 📈 Star History
 
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cyber-Reconnaissance-Threat-Intelligence_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cyber-Reconnaissance-Threat-Intelligence_growth.svg">
+  </picture>
+</a>
