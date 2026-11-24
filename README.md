@@ -254,3 +254,12 @@ Use code with caution.
 Made for threat intelligence analysts, OSINT researchers, red/blue teamers, bug bounty hunters, and open-source contributors.
 
 Let's make cyber reconnaissance and threat intelligence more open, collaborative, and transparent.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cyber-Reconnaissance-Threat-Intelligence&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cyber-Reconnaissance-Threat-Intelligence_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cyber-Reconnaissance-Threat-Intelligence_growth.svg">
+  </picture>
+</a>
